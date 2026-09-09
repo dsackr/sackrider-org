@@ -2,7 +2,7 @@
 title: myBlog
 description: Ok, I don't know what I'm doing, and I don't really have time to do it,
   but I would like to more consistantly log my thoughts and I believe a blog is a
-  good ...
+  good...
 pubDate: '2006-05-25'
 draft: false
 ---

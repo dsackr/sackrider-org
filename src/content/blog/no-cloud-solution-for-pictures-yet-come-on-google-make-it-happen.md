@@ -2,7 +2,7 @@
 title: No "cloud" solution for pictures yet??? Come on Google - make it happen!
 description: I'm not sure why I even have to ask - but what is going on in the world
   we live in when I have to continue to manage pictures the same way we did almost
-  10 y...
+  10...
 pubDate: '2011-01-05'
 draft: false
 ---

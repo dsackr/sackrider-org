@@ -1,6 +1,8 @@
 ---
 title: Anyone can blog a soundbite
-description: My wife is a pastor's daughter.
+description: My wife is a pastor's daughter. She has spent a lot of her life listening
+  to gifted speakers, including her father. Stephanie told me how important it was
+  that...
 pubDate: '2014-07-08'
 draft: true
 ---

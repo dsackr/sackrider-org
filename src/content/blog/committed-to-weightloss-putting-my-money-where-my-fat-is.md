@@ -1,7 +1,7 @@
 ---
 title: Committed to weightloss - putting my money where my fat is...
 description: Its been a while since my last post and I didn't want you guys to think
-  I dropped off the face of the earth.
+  I dropped off the face of the earth. A lot is going on here - last week the whole...
 pubDate: '2007-01-22'
 draft: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: Checking the Mail...
-description: Do you remember checking the mail as a kid?  I used to look forward to
-  getting a letter in the mail from a family member or a friend.
+description: Do you remember checking the mail as a kid? I used to look forward to
+  getting a letter in the mail from a family member or a friend. Then as I got older,
+  moved...
 pubDate: '2025-06-14'
 draft: true
 ---

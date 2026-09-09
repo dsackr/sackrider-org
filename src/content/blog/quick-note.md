@@ -1,6 +1,7 @@
 ---
 title: Quick Note...
-description: Just so you know, I haven't fallen off the face of the earth.
+description: Just so you know, I haven't fallen off the face of the earth. My brother-in-law
+  and his wife and two daughters have been in town and staying with us for the...
 pubDate: '2007-07-12'
 draft: false
 ---

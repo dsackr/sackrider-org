@@ -1,6 +1,6 @@
 ---
 title: Happy Birthday Zander!!!
-description: Today Zander turned 4   years old.
+description: Today Zander turned 4 years old.
 pubDate: '2008-01-11'
 draft: false
 ---

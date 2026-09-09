@@ -1,6 +1,6 @@
 ---
 title: Logo opens Aunt Karline's Christmas Gift...
-description: <flv href="http://sackrider.
+description: Logo opens Aunt Karline's Christmas Gift...
 pubDate: '2006-12-25'
 draft: false
 ---

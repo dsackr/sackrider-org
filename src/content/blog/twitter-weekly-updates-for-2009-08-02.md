@@ -1,17 +1,11 @@
 ---
 title: Twitter Weekly Updates for 2009-08-02
-description: <ul class="aktt_tweet_digest"  Give me a "Gentlemen, START YOUR ENGINES"
-  over "play ball" any Sunday.
+description: 'Give me a "Gentlemen, START YOUR ENGINES" over "play ball" any Sunday...
+  Go team Hendricks! # IQuitAgain: Biggest Loser Bust: Ok – I should have updated...'
 pubDate: '2009-08-02'
 draft: true
+tags:
+- Twitter
 ---
 
-<ul class="aktt_tweet_digest"> * Give me a "Gentlemen, START YOUR ENGINES" over "play ball" any Sunday... Go team Hendricks! [#](http://twitter.com/dsackr/statuses/2858962877)
- * IQuitAgain: Biggest Loser Bust: Ok – I should have updated everyone sooner – I did not ge.. [http://bit.ly/HEGc](http://bit.ly/HEGc) [#](http://twitter.com/dsackr/statuses/2866450447)
- * Zander (5yr) tells Grammie 2nite after playing slip&slide @ church, I like to GET wet, I like to PLAY in water, but I don't like to BE wet [#](http://twitter.com/dsackr/statuses/2903923944)
- * I heard about the streets of gold, Beyond the crystal sea; About the angels singing, And the old redemption story, And some sweet day... [#](http://twitter.com/dsackr/statuses/2903968388)
- * How swet 2 hold a newborn baby&feel the pride&joy he gives.But gr8r still the calm assurance.This child can face uncertain days b/c He lives [#](http://twitter.com/dsackr/statuses/2904340671)
- * @[macaroniandglue](http://twitter.com/macaroniandglue) Yes, how else will you get   to know the famlies of her future bff? [in reply to macaroniandglue](http://twitter.com/macaroniandglue/statuses/2915323935) [#](http://twitter.com/dsackr/statuses/2915470182)
- * @[Dana_Willhoit](http://twitter.com/Dana_Willhoit) why not? Ur time is not free is it? [in reply to Dana_Willhoit](http://twitter.com/Dana_Willhoit/statuses/2915300198) [#](http://twitter.com/dsackr/statuses/2915502891)
- * facing the very real possibility that I will need more than next semester to finish my degree... arrgghhh! [#](http://twitter.com/dsackr/statuses/2924554511)
- </ul> Powered by [Twitter Tools](http://alexking.org/projects/wordpress).
+<ul class="aktt_tweet_digest"> <li>Give me a &quot;Gentlemen, START YOUR ENGINES&quot; over &quot;play ball&quot; any Sunday... Go team Hendricks! <a href="http://twitter.com/dsackr/statuses/2858962877">#</a></li> <li>IQuitAgain: Biggest Loser Bust: Ok &#8211; I should have updated everyone sooner &#8211; I did not ge.. <a href="http://bit.ly/HEGc" rel="nofollow">http://bit.ly/HEGc</a> <a href="http://twitter.com/dsackr/statuses/2866450447">#</a></li> <li>Zander (5yr) tells Grammie 2nite after playing slip&amp;slide @ church, I like to GET wet, I like to PLAY in water, but I don&#39;t like to BE wet <a href="http://twitter.com/dsackr/statuses/2903923944">#</a></li> <li>I heard about the streets of gold, Beyond the crystal sea; About the angels singing, And the old redemption story, And some sweet day... <a href="http://twitter.com/dsackr/statuses/2903968388">#</a></li> <li>How swet 2 hold a newborn baby&amp;feel the pride&amp;joy he gives.But gr8r still the calm assurance.This child can face uncertain days b/c He lives <a href="http://twitter.com/dsackr/statuses/2904340671">#</a></li> <li>@<a href="http://twitter.com/macaroniandglue">macaroniandglue</a> Yes, how else will you get   to know the famlies of her future bff? <a href="http://twitter.com/macaroniandglue/statuses/2915323935">in reply to macaroniandglue</a> <a href="http://twitter.com/dsackr/statuses/2915470182">#</a></li> <li>@<a href="http://twitter.com/Dana_Willhoit">Dana_Willhoit</a> why not? Ur time is not free is it? <a href="http://twitter.com/Dana_Willhoit/statuses/2915300198">in reply to Dana_Willhoit</a> <a href="http://twitter.com/dsackr/statuses/2915502891">#</a></li> <li>facing the very real possibility that I will need more than next semester to finish my degree... arrgghhh! <a href="http://twitter.com/dsackr/statuses/2924554511">#</a></li> </ul> <p class="aktt_credit">Powered by <a href="http://alexking.org/projects/wordpress">Twitter Tools</a>.</p>

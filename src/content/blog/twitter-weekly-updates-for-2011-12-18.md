@@ -1,20 +1,11 @@
 ---
 title: Twitter Weekly Updates for 2011-12-18
-description: <ul class="aktt_tweet_digest"  The pastor today has used the word propitiation
-  about a dozen times.
+description: 'The pastor today has used the word propitiation about a dozen times...
+  # What a play!!! Go Cardinals! # Just finished my last soda until next Friday night......'
 pubDate: '2011-12-18'
 draft: true
+tags:
+- Twitter
 ---
 
-<ul class="aktt_tweet_digest"> * The pastor today has used the word propitiation about a dozen times... [#](http://twitter.com/dsackr/statuses/145935722342395905)
- * What a play!!! Go Cardinals! [#](http://twitter.com/dsackr/statuses/146019093911318528)
- * Just finished my last soda until next Friday night... Unless George wants to buy me Chinos... :) [#](http://twitter.com/dsackr/statuses/146022070436896769)
- * Romo snatching defeat out of the jaws of victory... argh!!! [#](http://twitter.com/dsackr/statuses/146086535199076352)
- * This season of Dexter has been a HUGH disappointment!!!!!!! [#](http://twitter.com/dsackr/statuses/146452733610823681)
- * does the government REALLY need to be involved in the volume level of commercials? [#](http://twitter.com/dsackr/statuses/146819775564230656)
- * what is "Used To Be Fat"? Sounds like a TV show? [#](http://twitter.com/dsackr/statuses/146820132088446977)
- * between the documentary "forks over knives" and the book "Eat to Live", I'm scared to eat anything other than broccoli... #[justsayin](http://search.twitter.com/search?q=%23justsayin) [#](http://twitter.com/dsackr/statuses/147675114803179520)
- * its my first day off for the rest of the year and I'm up early, thinking about work... doh! [#](http://twitter.com/dsackr/statuses/147675325986390016)
- * even if ObamaCare would improve my health coverage and lower my health bils - I would be against it - this is NOT the job of government!!!   [#](http://twitter.com/dsackr/statuses/147682370793902082)
- * heading to the dentist for the third day in a row... [#](http://twitter.com/dsackr/statuses/147688558919036929)
- </ul> Powered by [Twitter Tools](http://alexking.org/projects/wordpress)
+<ul class="aktt_tweet_digest"> <li>The pastor today has used the word propitiation about a dozen times... <a href="http://twitter.com/dsackr/statuses/145935722342395905" class="aktt_tweet_time">#</a></li> <li>What a play!!! Go Cardinals! <a href="http://twitter.com/dsackr/statuses/146019093911318528" class="aktt_tweet_time">#</a></li> <li>Just finished my last soda until next Friday night... Unless George wants to buy me Chinos... :) <a href="http://twitter.com/dsackr/statuses/146022070436896769" class="aktt_tweet_time">#</a></li> <li>Romo snatching defeat out of the jaws of victory... argh!!! <a href="http://twitter.com/dsackr/statuses/146086535199076352" class="aktt_tweet_time">#</a></li> <li>This season of Dexter has been a HUGH disappointment!!!!!!! <a href="http://twitter.com/dsackr/statuses/146452733610823681" class="aktt_tweet_time">#</a></li> <li>does the government REALLY need to be involved in the volume level of commercials? <a href="http://twitter.com/dsackr/statuses/146819775564230656" class="aktt_tweet_time">#</a></li> <li>what is &quot;Used To Be Fat&quot;? Sounds like a TV show? <a href="http://twitter.com/dsackr/statuses/146820132088446977" class="aktt_tweet_time">#</a></li> <li>between the documentary &quot;forks over knives&quot; and the book &quot;Eat to Live&quot;, I&#039;m scared to eat anything other than broccoli... #<a href="http://search.twitter.com/search?q=%23justsayin" class="aktt_hashtag">justsayin</a> <a href="http://twitter.com/dsackr/statuses/147675114803179520" class="aktt_tweet_time">#</a></li> <li>its my first day off for the rest of the year and I&#039;m up early, thinking about work... doh! <a href="http://twitter.com/dsackr/statuses/147675325986390016" class="aktt_tweet_time">#</a></li> <li>even if ObamaCare would improve my health coverage and lower my health bils - I would be against it - this is NOT the job of government!!!   <a href="http://twitter.com/dsackr/statuses/147682370793902082" class="aktt_tweet_time">#</a></li> <li>heading to the dentist for the third day in a row... <a href="http://twitter.com/dsackr/statuses/147688558919036929" class="aktt_tweet_time">#</a></li> </ul> <p class="aktt_credit">Powered by <a href="http://alexking.org/projects/wordpress">Twitter Tools</a></p>

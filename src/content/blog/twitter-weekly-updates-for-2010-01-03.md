@@ -1,18 +1,12 @@
 ---
 title: Twitter Weekly Updates for 2010-01-03
-description: <ul class="aktt_tweet_digest"  I can't find my cell phone and it rolls
-  straight to voice mail, so the battery is dead.
+description: 'I can''t find my cell phone and it rolls straight to voice mail, so
+  the battery is dead... arrgghhh # Thank you @Miragi... inspired by ur tweet to check
+  the...'
 pubDate: '2010-01-03'
 draft: true
+tags:
+- Twitter
 ---
 
-<ul class="aktt_tweet_digest"> * I can't find my cell phone and it rolls straight to voice mail, so the battery is dead... arrgghhh [#](http://twitter.com/dsackr/statuses/7094058637)
- * Thank you @Miragi... inspired by ur tweet to check the chair... I took a fifth (or maybe sixth?) look inside my chair - there my phone was! [#](http://twitter.com/dsackr/statuses/7118107199)
- * Its 2am and I have to work later today... why am I still up? [#](http://twitter.com/dsackr/statuses/7118121162)
- * picked up nfl.com rewind this week - i'm getting caught up before the playoffs... [#](http://twitter.com/dsackr/statuses/7188895689)
- * [http://twitpic.com/vy8fv](http://twitpic.com/vy8fv) - My shinner to match my daughters... Football practice was fun! [#](http://twitter.com/dsackr/statuses/7215214594)
- * whoa - I nodded off... did I miss it? Is it 2010 yet? Happy New Year... [#](http://twitter.com/dsackr/statuses/7263992139)
- * starting the year off with some homework... ignoring the bowl games today... [#](http://twitter.com/dsackr/statuses/7277510125)
-   s condition [http://www.handicappershideaway.com/qox/buy-viagra-online](http://www.handicappershideaway.com/qox/buy-viagra-online) some say. Yet It [cialis for daily use cost](http://www.oxnardsoroptimist.org/dada/order-cialis.html) little does diluted the.</div> * [http://twitpic.com/wfamc](http://twitpic.com/wfamc) - Mr. Cool... Don't blame him, daddy dressed him [#](http://twitter.com/dsackr/statuses/7314231638)
- * RT @organizersandy: Having 2 eat all the junk food so it will be out of here when I start my diet. Isn't that how we are supposed to do it? [#](http://twitter.com/dsackr/statuses/7315902944)
- </ul> Powered by [Twitter Tools](http://alexking.org/projects/wordpress)
+<ul class="aktt_tweet_digest"> <li>I can&#39;t find my cell phone and it rolls straight to voice mail, so the battery is dead... arrgghhh <a href="http://twitter.com/dsackr/statuses/7094058637" class="aktt_tweet_time">#</a></li> <li>Thank you @Miragi... inspired by ur tweet to check the chair... I took a fifth (or maybe sixth?) look inside my chair - there my phone was! <a href="http://twitter.com/dsackr/statuses/7118107199" class="aktt_tweet_time">#</a></li> <li>Its 2am and I have to work later today... why am I still up? <a href="http://twitter.com/dsackr/statuses/7118121162" class="aktt_tweet_time">#</a></li> <li>picked up nfl.com rewind this week - i&#39;m getting caught up before the playoffs... <a href="http://twitter.com/dsackr/statuses/7188895689" class="aktt_tweet_time">#</a></li> <li><a href="http://twitpic.com/vy8fv" rel="nofollow">http://twitpic.com/vy8fv</a> - My shinner to match my daughters... Football practice was fun! <a href="http://twitter.com/dsackr/statuses/7215214594" class="aktt_tweet_time">#</a></li> <li>whoa - I nodded off... did I miss it? Is it 2010 yet? Happy New Year... <a href="http://twitter.com/dsackr/statuses/7263992139" class="aktt_tweet_time">#</a></li> <li>starting the year off with some homework... ignoring the bowl games today... <a href="http://twitter.com/dsackr/statuses/7277510125" class="aktt_tweet_time">#</a></li>   s condition <a rel="nofollow" href="http://www.handicappershideaway.com/qox/buy-viagra-online">http://www.handicappershideaway.com/qox/buy-viagra-online</a> some say. Yet It <a href="http://www.oxnardsoroptimist.org/dada/order-cialis.html">cialis for daily use cost</a> little does diluted the. <li><a href="http://twitpic.com/wfamc" rel="nofollow">http://twitpic.com/wfamc</a> - Mr. Cool... Don&#39;t blame him, daddy dressed him <a href="http://twitter.com/dsackr/statuses/7314231638" class="aktt_tweet_time">#</a></li> <li>RT @organizersandy: Having 2 eat all the junk food so it will be out of here when I start my diet. Isn&#39;t that how we are supposed to do it? <a href="http://twitter.com/dsackr/statuses/7315902944" class="aktt_tweet_time">#</a></li> </ul> <p class="aktt_credit">Powered by <a href="http://alexking.org/projects/wordpress">Twitter Tools</a></p>

@@ -1,7 +1,7 @@
 ---
 title: The concept of getting paid to blog
 description: Ok - I mentioned in a previous post that I am looking to make money blogging
-  and I've had a few people ask me how that's even possible.
+  and I've had a few people ask me how that's even possible. I'm not the expert on...
 pubDate: '2008-12-05'
 draft: false
 ---

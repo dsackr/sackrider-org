@@ -1,8 +1,7 @@
 ---
 title: Facebook is better than Google for Contacts Management
 description: Have you ever tried to call someone that you haven't talked to in months
-  just to find out that the phone number you have is no longer in service?  Or send
-  so...
+  just to find out that the phone number you have is no longer in service? Or send...
 pubDate: '2009-11-01'
 draft: false
 ---

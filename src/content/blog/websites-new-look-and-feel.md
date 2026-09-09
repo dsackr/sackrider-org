@@ -2,7 +2,7 @@
 title: Websites New Look and Feel
 description: I'm working on changing the site a bit - the changes will most likely
   be rolling out a little at a time, but the biggest change you will see is already
-  here ...
+  here...
 pubDate: '2007-07-02'
 draft: false
 ---

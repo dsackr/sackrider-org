@@ -1,19 +1,11 @@
 ---
 title: Twitter Weekly Updates for 2009-09-06
-description: '<ul class="aktt_tweet_digest"  Things to do in Hawaii: Diamond Head
-  - check, North Shore - check, blowhole - check, Pearl Harbor - check, get stung
-  by a jell...'
+description: 'Things to do in Hawaii: Diamond Head - check, North Shore - check, blowhole
+  - check, Pearl Harbor - check, get stung by a jelly fish - check # I caught a car...'
 pubDate: '2009-09-06'
 draft: true
+tags:
+- Twitter
 ---
 
-<ul class="aktt_tweet_digest"> * Things to do in Hawaii: Diamond Head - check, North Shore - check, blowhole - check, Pearl Harbor - check, get stung by a jelly fish - check [#](http://twitter.com/dsackr/statuses/3672867942)
- * I caught a car last night - no, really - I CAUGHT a BMW car as it rolled through a parking lot, unmanned, heading for a Camry... I caught it [#](http://twitter.com/dsackr/statuses/3672970265)
- * You would think finding a place that sells drinks with umbrellas in them would be a simply matter... arrggghhh!!! [#](http://twitter.com/dsackr/statuses/3700540145)
- * last night in Hawaii... Saved snorkeling for this morning just to find out the bay is closed on Tuesdays... :o( [#](http://twitter.com/dsackr/statuses/3707956398)
- * [http://twitpic.com/getlo](http://twitpic.com/getlo) - Happy Birthday Lexi! [#](http://twitter.com/dsackr/statuses/3753477220)
- * know a church that needs a website? [http://sannsack.com/church-special](http://sannsack.com/church-special) is offering FREE websites for churches this week only! [#](http://twitter.com/dsackr/statuses/3776531034)
- * WordPress Attack Underway: WordPress Users Must Upgrade [ALERT] [http://bit.ly/25BeNG#mb](http://bit.ly/25BeNG#mb) [#](http://twitter.com/dsackr/statuses/3781686689)
- * Go Bucks! [#](http://twitter.com/dsackr/statuses/3781720204)
- * know a church that needs a website? [http://sannsack.com/church-special](http://sannsack.com/church-special) is offering FREE websites for churches   this week only! [#](http://twitter.com/dsackr/statuses/3781767579)
- </ul> Powered by [Twitter Tools](http://alexking.org/projects/wordpress)
+<ul class="aktt_tweet_digest"> <li>Things to do in Hawaii: Diamond Head - check, North Shore - check, blowhole - check, Pearl Harbor - check, get stung by a jelly fish - check <a href="http://twitter.com/dsackr/statuses/3672867942" class="aktt_tweet_time">#</a></li> <li>I caught a car last night - no, really - I CAUGHT a BMW car as it rolled through a parking lot, unmanned, heading for a Camry... I caught it <a href="http://twitter.com/dsackr/statuses/3672970265" class="aktt_tweet_time">#</a></li> <li>You would think finding a place that sells drinks with umbrellas in them would be a simply matter... arrggghhh!!! <a href="http://twitter.com/dsackr/statuses/3700540145" class="aktt_tweet_time">#</a></li> <li>last night in Hawaii... Saved snorkeling for this morning just to find out the bay is closed on Tuesdays... :o( <a href="http://twitter.com/dsackr/statuses/3707956398" class="aktt_tweet_time">#</a></li> <li><a href="http://twitpic.com/getlo" rel="nofollow">http://twitpic.com/getlo</a> - Happy Birthday Lexi! <a href="http://twitter.com/dsackr/statuses/3753477220" class="aktt_tweet_time">#</a></li> <li>know a church that needs a website? <a href="http://sannsack.com/church-special" rel="nofollow">http://sannsack.com/church-special</a> is offering FREE websites for churches this week only! <a href="http://twitter.com/dsackr/statuses/3776531034" class="aktt_tweet_time">#</a></li> <li>WordPress Attack Underway: WordPress Users Must Upgrade [ALERT] <a href="http://bit.ly/25BeNG#mb" rel="nofollow">http://bit.ly/25BeNG#mb</a> <a href="http://twitter.com/dsackr/statuses/3781686689" class="aktt_tweet_time">#</a></li> <li>Go Bucks! <a href="http://twitter.com/dsackr/statuses/3781720204" class="aktt_tweet_time">#</a></li> <li>know a church that needs a website? <a href="http://sannsack.com/church-special" rel="nofollow">http://sannsack.com/church-special</a> is offering FREE websites for churches   this week only! <a href="http://twitter.com/dsackr/statuses/3781767579" class="aktt_tweet_time">#</a></li> </ul> <p class="aktt_credit">Powered by <a href="http://alexking.org/projects/wordpress">Twitter Tools</a></p>
