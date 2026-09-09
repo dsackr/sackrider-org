@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+.env
+.env.*
+public/wp-content/uploads/2011/08/cobblestone.pdf

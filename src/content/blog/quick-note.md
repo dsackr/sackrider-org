@@ -1,0 +1,8 @@
+---
+title: Quick Note...
+description: Just so you know, I haven't fallen off the face of the earth.
+pubDate: '2007-07-12'
+draft: false
+---
+
+Just so you know, I haven't fallen off the face of the earth. My brother-in-law and his wife and two daughters have been in town and staying with us for the last two weeks. Its been great having them and we have spent many nights talking about the Bible, ministry, great movies, and life (not in that order). Well, tonight is their last night with us and I will miss having them around. There are challenges to having an entire additional family living in the same house,   but Stephanie and I both want large families, so the benefits far out way the challenges. I will miss those long debates. I will miss watching Zander play with his cousins. We really enjoyed having them as our guests. Anyway - I haven't posted in a while and I wanted to drop a line saying I'm still here... consider this line dro.......

@@ -1,0 +1,32 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-zinc-200/80 dark:border-zinc-800/80 mt-20 py-12 text-sm text-zinc-500 dark:text-zinc-400 transition-colors">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+    <div>
+      <p>© {year} Sackrider Family Archive (2004–{year}).</p>
+      <p class="text-xs text-zinc-400 dark:text-zinc-500 mt-1">
+        Hosted on Cloudflare • Built with Astro
+      </p>
+    </div>
+
+    <div class="flex items-center gap-4 text-xs">
+      <a href="/archive" class="hover:text-zinc-900 dark:hover:text-zinc-200 transition-colors">
+        Full Archive
+      </a>
+      <span>•</span>
+      <a href="/about" class="hover:text-zinc-900 dark:hover:text-zinc-200 transition-colors">
+        About Us
+      </a>
+      <span>•</span>
+      <a href="/rss.xml" class="hover:text-zinc-900 dark:hover:text-zinc-200 transition-colors">
+        RSS
+      </a>
+      <span>•</span>
+      <a href="https://dalesackrider.com" target="_blank" rel="noopener noreferrer" class="hover:text-zinc-900 dark:hover:text-zinc-200 transition-colors">
+        DaleSackrider.com
+      </a>
+    </div>
+  </div>
+</footer>

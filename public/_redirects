@@ -1,0 +1,3 @@
+# Legacy blog redirects
+/blog/*  /posts/:splat  301
+/blog    /              301

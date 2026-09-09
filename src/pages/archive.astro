@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Group posts by year
+const postsByYear = sortedPosts.reduce((acc, post) => {
+  const year = post.data.pubDate.getFullYear();
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(post);
+  return acc;
+}, {} as Record<number, typeof sortedPosts>);
+
+const years = Object.keys(postsByYear).map(Number).sort((a, b) => b - a);
+---
+
+<BaseLayout title="Archive — Sackrider.org" description="Complete chronological archive of all family posts from 2004 to present.">
+  <div class="max-w-3xl mx-auto">
+    <header class="mb-10 pb-6 border-b border-zinc-200 dark:border-zinc-800">
+      <h1 class="text-3xl sm:text-4xl font-bold text-zinc-900 dark:text-zinc-100">
+        Chronological Archive
+      </h1>
+      <p class="text-sm text-zinc-500 dark:text-zinc-400 mt-2">
+        {sortedPosts.length} total posts spanning 2004 to {new Date().getFullYear()}.
+      </p>
+
+      <!-- Year Pills -->
+      <div class="flex flex-wrap gap-2 mt-5">
+        {years.map(yr => (
+          <a
+            href={`#year-${yr}`}
+            class="px-2.5 py-1 text-xs font-semibold rounded-lg bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 hover:bg-sky-100 hover:text-sky-700 dark:hover:bg-sky-950 dark:hover:text-sky-300 transition-colors"
+          >
+            {yr} ({postsByYear[yr].length})
+          </a>
+        ))}
+      </div>
+    </header>
+
+    <div class="space-y-12">
+      {years.map(yr => (
+        <section id={`year-${yr}`} class="scroll-mt-24">
+          <div class="flex items-center gap-3 mb-4">
+            <h2 class="text-2xl font-bold text-zinc-900 dark:text-zinc-100">
+              {yr}
+            </h2>
+            <span class="text-xs px-2.5 py-0.5 rounded-full bg-zinc-200/80 dark:bg-zinc-800 font-semibold text-zinc-600 dark:text-zinc-400">
+              {postsByYear[yr].length} posts
+            </span>
+          </div>
+
+          <div class="divide-y divide-zinc-200/80 dark:divide-zinc-800 border-t border-b border-zinc-200/80 dark:border-zinc-800">
+            {postsByYear[yr].map(post => (
+              <div class="py-3 flex flex-col sm:flex-row sm:items-baseline justify-between gap-1 group">
+                <a
+                  href={`/posts/${post.id}`}
+                  class="font-medium text-zinc-900 dark:text-zinc-100 group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors text-base"
+                >
+                  {post.data.title}
+                </a>
+                <div class="shrink-0 text-xs text-zinc-400 dark:text-zinc-500">
+                  <FormattedDate date={post.data.pubDate} />
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
