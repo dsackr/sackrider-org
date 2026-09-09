@@ -7,5 +7,15 @@
   },
   "assets": {
     "directory": "dist"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "sackrider.org/*",
+      "zone_name": "sackrider.org"
+    },
+    {
+      "pattern": "www.sackrider.org/*",
+      "zone_name": "sackrider.org"
+    }
+  ]
 }
