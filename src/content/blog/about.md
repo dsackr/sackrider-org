@@ -15,4 +15,3 @@ Welcome to //sackrider.org!
 My wife and I are always excited to meet new members of the Sackrider Family, so if your surname is Sackrider, please write us!  You can reach us through email at <a href="mailto:dale@sackrider.org">dale@sackrider.org</a> or at:
 
 Dale and Stephanie Sackrider
-Glendale, AZ
