@@ -73,19 +73,14 @@ tags: ["family", "photos", "milestones"]
 ### 1. Draft the Post
 Create `/Users/skippy/repos/sackrider-org/src/content/blog/<slug>.md` with frontmatter and Markdown body.
 
-### 2. Verify Build Locally
+### 2. (Optional) Preview or Verify Build Locally
 ```bash
 cd /Users/skippy/repos/sackrider-org
 npm run build
 ```
 
-### 3. Deploy to Cloudflare Edge
-```bash
-cd /Users/skippy/repos/sackrider-org
-npx wrangler deploy
-```
-
-### 4. Commit and Push to GitHub
+### 3. Commit and Push to GitHub (Automated CI/CD)
+Pushing to `main` automatically triggers GitHub Actions to build and deploy to Cloudflare Edge:
 ```bash
 cd /Users/skippy/repos/sackrider-org
 git add .
