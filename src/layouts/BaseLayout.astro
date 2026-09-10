@@ -58,7 +58,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://sackride
       window.localStorage.setItem('theme', theme);
     </script>
   </head>
-  <body class="min-h-screen flex flex-col bg-[#fafafa] dark:bg-[#09090b] text-zinc-900 dark:text-zinc-100 antialiased selection:bg-sky-100 dark:selection:bg-sky-950">
+  <body class="min-h-screen flex flex-col bg-[var(--bg-primary)] text-[var(--text-primary)] antialiased selection:bg-sky-100 dark:selection:bg-sky-950">
     <Header />
     <main class="flex-grow max-w-4xl w-full mx-auto px-4 sm:px-6 py-8 sm:py-12">
       <slot />
